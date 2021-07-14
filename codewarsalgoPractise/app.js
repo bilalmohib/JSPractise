@@ -30,3 +30,5 @@ function friend(friends) {
 }
 let friendslist = friend(["Ryan", "Kieran", "Mark"]);
 console.log(`This is the friends list: ${friendslist}`)
+///////////////////////////////////////////////////////////////////////////////////////
+// 3) 
