@@ -43,7 +43,7 @@ console.log("Using Math ceil for 10.5 equals : ",Math.ceil(10.5));
 // > Math.ceil(10.4)
 // <·11
 // Use the Math object's floor method:
-console.log("Using Math Floor for 10.4 returns : ",Math.floor(10.4));
+console.log("Using Math Floor for 10.6 returns : ",Math.floor(10.6));
 // <·10
 // The Math.floor() method returns the previous largest integer value that is less than, or equal to, the given argument.
 // Use the Math object's floor method:
@@ -53,3 +53,5 @@ console.log("Using Math Floor for 10.4 returns : ",Math.floor(10.4));
 // >Math.floor(Math.random() * 6) + 1
 // \\Output
 // < 1
+
+console.clear();
